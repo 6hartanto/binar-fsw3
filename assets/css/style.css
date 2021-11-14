@@ -1,0 +1,11 @@
+/* header background */
+
+.nav {
+  position: absolute;
+  left    : 0%;
+  right   : 0%;
+  top     : -0.03%;
+  bottom  : 90.66%;
+
+  background: rgba(0, 0, 0, 0.5);
+}
